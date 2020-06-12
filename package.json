@@ -14,7 +14,7 @@
     "aos": "^2.3.4",
     "bootstrap-icons": "^1.0.0-alpha2",
     "element-ui": "^2.13.0",
-    "jquery": "^1.12.4",
+    "jquery": "^3.5.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "lib-flexible": "^0.3.2",
