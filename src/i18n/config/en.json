@@ -1,0 +1,124 @@
+{
+    "common": {
+        "home": "Home",
+         "service":"Service",
+         "About":"About Us",
+         "Contact": "Contact",
+        "login": "Login",
+        "register": "Register",
+        "appDownload": "APP Download",
+        "aboutUs":"About Us",
+        "faq": "FAQ",
+        "contact": "Contact Us",
+        "join": "Join Us",
+        "copyright": "Copyright © ZLGMcu Ltd",
+        "news": "News",
+        "toggle": "Toggle",
+        "welcome": "Welcome, ",
+        "userinfo": "Userinfo",
+        "firstPage": "Home",
+        "setting": "Setting",
+        "exit": "Exit"
+    },
+    "title":{
+        "title1":"Complete supply chain solution from Asia",
+        "title2":"Fast Easy Cost-effective",
+        "botton":"REQUEST A QUOTE"
+    },
+    "Contact":{
+        "Contact":"Contact Us",
+        "title":"Have questions? Please message us below.",
+        "input1":"Enter your full name ···",
+        "dialog1":"Name cannot be empty",
+        "input2":"Enter your phone number ···",
+        "dialog2":"phone cannot be empty",
+        "input3":"Enter your email address ···",
+        "dialog3":"mailbox cannot be empty",
+        "input4":"Message:",
+        "bottom":"SEND MESSAGE",
+        "phone":"Giraf Office",
+        "mailbox":"Customer Service"
+    },
+    "message": {
+        "hint1":"Submitted successfully"
+    },
+    "aboutUs":{
+        "title":"About Us",
+        "content":"Giraf Logistics S.A. de C.V. is a company, which is dedicated to comprehensive global transportation services. With more than 20 years of industry experience, we provide a variety of transportation services for enterprises of different sizes around the world. We take action globally and locally, always close to the customers and their needs."
+    },
+    "Fast":{
+        "title":"Fast",
+        "content":"Fast response time and high-quality services enable us to have a long-term relationship and a successful future."
+    },
+    "Easy":{
+        "title":"Easy",
+        "content":"We simplify the process of international business for our customers. The professional team can handle the full set of documents for your foreign trade business for you. All you need to do is focus on sales, and the rest will be left to us."
+    },
+    "Cost-effective":{
+        "title":"Cost-effective",
+        "content":"Through agreements with ocean shipping and air carriers, Giraf provides its customers with the most competitive rates in the industry."
+    },
+    "Values":{
+        "title":"Values",
+        "Value1":{
+            "title" :"Customer first",
+            "content" : "Our employees make sure not only to meet customer requirements, but also to anticipate them, in order to provide the most suitable solution and excellent service."
+        },
+        "Value2":{
+            "title" : "Team working",
+            "content":"We work as a team to support each other and use the special skills of each employee to ensure every step of a reliable operation of our clients' orders."
+        },
+        "Value3":{
+            "title":"Honesty",
+            "content":"The honesty, the attitude with which our company and its employees work daily with the clients creates the basis for a long business relationship."
+        },
+        "Value4":{
+            "title":"Responsibility",
+            "content":"We are committed. We Measure, acknowledge and take responsibility of our actions. And we are also a social responsible company."
+        },
+        "Value5":{
+            "title":"Openness",
+            "content":"Our high degree of openness generates innovation. Constantly questions the status quo to positively transform our process."
+        },
+        "Value6":{
+            "title":"Innovation",
+            "content":"Our high degree of innovation generates effective logistics processes with a high customer orientation. This creates added value and a reliable operation of our customers' orders."
+        }
+    },
+    "service":{
+        "title":"Freight forwarding services",
+        "service1":{
+            "title":"Ocean Freight & Airfreight",
+            "content":"FCL, Full Container Service; LCL, Consolidation Services; Storage, labelling and packaging; Tracking Service; Insurance; Custom declarations; General Cargo, Project Cargo, Frozen Cargo, Special Cargo, Dangerous Cargo."
+        },
+        "service2":{
+            "title":"Overland",
+            "content":"Giraf Logistics has a large network of responsible sub-contractors in Mexico and all relevant countries, who are equipped with modern equipment and all the necessary insurance to carry out land transport on our behalf."
+        },
+        "service3":{
+            "title":"Customs Clearance",
+            "content":"The customs declarant has a special task: Together with you, we will adapt complete trade compliance procedures to meet your requirements. Our goal is to reduce your costs and increase your profits while complying with the trading rules."
+        },
+        "service4":{
+            "title":"Warehousing",
+            "content":"Giraf Logistics can receive your goods in its warehouse, store them safely there for you, consolidate them and then transport them to the next destination. We provide additional services such as Labeling, cross-dock and simple quality control."
+        },
+        "service5":{
+            "title":"Heavy lift project loads",
+            "content":"As a special offer, we also provide our customers with services for handling of large, heavy or bulky goods, which includes complete planning from individual packaging to project loading, factory assembly/disassembly and industrial factory loading. We have optimized the use of conventional ships and flat-top or open loading on scheduled services."
+        },
+        "service6":{
+            "title":"FBA Service",
+            "content":"With our 17 offices in China, as well as offices in Vietnam, BanglaDash, India, Philippines, our companies in Asia can provide on-site services in areas that benefit from low-cost production and procurement. We not only have offices in Mexico, Chile and Jamaica, but also have offices and warehouses in Europe, Asia and North America. This enables us to effectively optimize the entire supply chain."
+        }
+    },
+    "why":{
+        "title":"Why choose Giraf Logistics?",
+        "why1":"We provide one-stop service for your purchasing logistics in Asia, transport to the global sales markets, customs clearance as well as optimized storage and distribution.",
+        "why2":"We pursue efficient coordination and connection. In this way, the products can reach its destination reliably, punctually and safely at their destination.",
+        "why3":"With our service, your imports and exports, customs clearance, warehousing and distribution to your end users both in Mexico and the global markets would be as easy as child's play."
+    },
+    "Partnered":{
+        "title":"Partnered"
+    }
+}

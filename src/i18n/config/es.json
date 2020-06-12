@@ -1,0 +1,124 @@
+{
+    "common":{
+        "home": "Inicio",
+        "service":"Servicio",
+        "About":"Sobre nosotros",
+        "Contact": "Contacto",
+        "login": "登录",
+        "register": "注册",
+        "appDownload": "APP下载",
+        "aboutUs": "关于我们",
+        "faq": "常见问题",
+        "contact": "联系方式",
+        "join": "加入我们",
+        "copyright": "版权说明 © 深圳市长帆国际物流股份有限公司",
+        "news": "消息",
+        "toggle": "切换",
+        "welcome": "欢迎您，",
+        "userinfo": "个人信息",
+        "firstPage":  "主页",
+        "setting": "设置",
+        "exit": "退出"
+    },
+    "title":{
+        "title1":"Solución completa de la cadena de suministro de Asia",
+        "title2":"Rápido, Fácil y Rentable",
+        "botton":"Solicite una cotización"
+    },
+    "Contact":{
+        "Contact":"Contáctenos",
+        "title":"Tiene preguntas? Por favor envíenos un mensaje.",
+        "input1":"Ingrese su nombre completo ···",
+        "dialog1":"El nombre no puede ser vacío",
+        "input2":"Ingrese su teléfono ···",
+        "dialog2":"El teléfono no puede ser vacío",
+        "input3":"Ingrese su correo electrónico ···",
+        "dialog3":"El correo no puede ser vacío",
+        "input4":"Mensaje:",
+        "bottom":"ENVIAR MENSAJE",
+        "phone":"Oficina Giraf",
+        "mailbox":"Servicio al Cliente"
+    },
+    "message":{
+        "hint1": "Enviado exitosamente"
+    },
+    "aboutUs":{
+        "title":"Quiénes somos?",
+        "content":"Giraf Logistics S.A. de C.V. es una empresa dedicada a los servicios integrales de transportación mundial. Con más de 20 años de experiencia en la industria, ofrecemos una variedad de servicios de transporte para empresas de diferentes tamaños en todo el mundo. Actuamos globalmente y localmente, siempre cerca del cliente y sus necesidades."
+    },
+    "Fast":{
+        "title":"Rápido",
+        "content":"El corto tiempo de respuesta y los servicios de alta calidad nos llevan con los clientes a relaciones de largo plazo y el futuro exitoso."
+    },
+    "Easy":{
+        "title":"Fácil",
+        "content":"Simplificamos el negocio internacional para nuestros clientes. Un equipo profesional puede manejar un conjunto completo de documentos para negocios de comercio exterior. Sólo necesita concentrarse en las ventas, y el resto nos encargamos."
+    },
+    "Cost-effective":{
+        "title":"Rentable",
+        "content":"A través de acuerdos con transportistas marítimos y aéreos, Giraf ofrece a los clientes las tarifas más competitivas en la industria del transporte."
+    },
+    "Values":{
+        "title":"Valores",
+        "Value1":{
+            "title" :"Cliente primero",
+            "content" : "Nuestros empleados se aseguran no sólo de cumplir con los requisitos del cliente, sino también de anticiparlos, a fin de proporcionar la solución más adecuada y un servicio excelente."
+        },
+        "Value2":{
+            "title" : "Trabajo en equipo",
+            "content":"Trabajamos en equipo para apoyarnos mutuamente y utilizar las habilidades especiales de cada empleado para garantizar cada paso de una operación confiable de los pedidos de nuestros clientes."
+        },
+        "Value3":{
+            "title":"Honestidad",
+            "content":"La honestidad, la actitud con la que nuestra empresa y sus empleados trabajan diario con los clientes crea la base para una larga relación comercial."
+        },
+        "Value4":{
+            "title":"Responsabilidad",
+            "content":"Somos comprometidos. Medimos, reconocemos y nos hacemos cargo de nuestras acciones. También somos una empresa social responsable."
+        },
+        "Value5":{
+            "title":"Apertura",
+            "content":"Nuestro alto grado de apertura genera innovación. Constantemente cuestiona el statu quo para transformar positivamente nuestro proceso."
+        },
+        "Value6":{
+            "title":"Innovación",
+            "content":"Nuestro alto grado de innovación genera procesos logísticos efectivos con una alta orientación al cliente. Esto crea un valor agregado y una operación confiable de los pedidos de nuestros clientes."
+        }
+    },
+    "service":{
+        "title":"Servicios",
+        "service1":{
+            "title":"Marítimo / Aéreo",
+            "content":"FCL, Servicio de contenedor completo; LCL, Carga consolidada; Almacenamiento, etiquetado y envasado; Servicio de seguimiento; Seguro de transporte; Trámites aduanales; Carga general, Carga de proyecto, Carga congelada, Carga especial y Carga peligrosa."
+        },
+        "service2":{
+            "title":"Por tierra",
+            "content":"Giraf Logistics tiene una gran red de subcontratistas responsables en México y todos los países relevantes, equipados con equipos modernos y todos los seguros necesarios para llevar a cabo los transportes terrestres."
+        },
+        "service3":{
+            "title":"Trámites de aduana",
+            "content":"El declarante de aduanas tiene una tarea especial: junto con usted, adaptamos los procedimientos completos de cumplimiento comercial para cumplir con sus requisitos. Nuestro objetivo es reducir sus costos y aumentar sus ganancias mientras cumplimos con las reglas comerciales."
+        },
+        "service4":{
+            "title":"Almacenamiento",
+            "content":"Giraf Logistics puede recibir sus productos en su almacén, almacenarlos de forma segura para usted, consolidarlos y enviarlos al próximo destino. Brindamos servicios adicionales como etiquetado, cross-dock y control de calidad."
+        },
+        "service5":{
+            "title":"Proyecto carga Heavy Lift",
+            "content":"Como oferta especial, también brindamos servicios para manejo de productos grandes, pesados o voluminosos, que incluye la planificación completa desde  el empaque individual hasta la carga de proyecto, el montaje/desmontaje de fábrica y la carga de equipos industriales. Hemos optimizado el uso de barcos convencionales, así como de carga en estanterías planas o abiertas en los servicios regulares."
+        },
+        "service6":{
+            "title":"Servicio de FBA",
+            "content":"Con nuestras 17 oficinas en China, así como oficinas en Vietnam, BanglaDesh, India, Filipinas, nuestras empresas en Asia puede proporcionar servicios en áreas que se benefician de la producción y adquisición de bajo costo. No sólo tenemos oficinas en México, Chile y Jamaica, sino que también tenemos oficinas y almacenes en Europa, Asia y América del Norte. Esto nos permite optimizar de manera efectiva toda la cadena de suministro."
+        }
+    },
+    "why":{
+        "title":"Por qué escoge Giraf Logistics?",
+        "why1":"Brindamos un servicio integral para su logística de compras en Asia, transporte a los mercados de ventas globales, despacho de aduanas, así como almacenamiento y distribución optimizados.",
+        "why2":"Perseguimos una coordinación y conexión eficientes. De esta manera, los productos pueden llegar a su destino de manera confiable, puntual y segura en su destino.",
+        "why3":"Con nuestro servicio, sus importaciones y exportaciones, despacho de aduanas, almacenamiento y distribución a sus usuarios finales tanto en México como en los mercados globales serían tan fáciles como un juego de niños."
+    },
+    "Partnered":{
+        "title":"Alianza comercial"
+    }
+}

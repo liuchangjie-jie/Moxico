@@ -1,0 +1,58 @@
+.fw900{
+   font-weight: 900;
+}
+.fw700{
+   font-weight: 700;
+}
+.fz12{
+    font-size: 12px;
+}
+.fz{
+    font-size: 16px;
+}
+.fz32{
+    font-size: 32px;
+}
+.fz36{
+    font-size: 36px;
+}
+.pd-l-r16{
+    padding:0 16px
+} 
+
+.pd16{
+    padding:16px;
+}
+.mt16{
+    margin-top:16px;
+}
+.mb120{
+    margin-bottom: 120px;
+}
+.lh200{
+    line-height: 200%;
+}
+.lh150{
+    line-height: 150%;
+}
+.color-fa5a59{
+    color: #fa5a59;
+}
+.bc-253b63{
+    background-color: #253b63;
+}
+.color-fff{
+    color:#fff;
+}
+.float-r{
+    float: right;
+}
+.bc-242b2e{
+    background-color: #242b2e;
+}
+.height-96{
+    height: 96px;
+}
+.height-80{
+    height: 80px;
+}
